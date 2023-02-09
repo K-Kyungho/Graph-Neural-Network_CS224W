@@ -1,1 +1,1 @@
-# Graph-Neural-Network_CS224W
+# Graph-Neural-Network
